@@ -1,0 +1,44 @@
+.missionstatement{
+    padding: 20px;
+    background: rgb(190, 170, 170);
+    margin-left: 45px;
+    margin-right: 45px;
+    text-align: center;
+
+}
+.statementTitle{
+    font-size: 30px;
+    
+    margin-bottom: 30px;
+    
+
+}
+.statement{
+    font-size: 15px;
+    line-height: 25px;
+}
+.lowerwrapper{
+    display: flex;
+}
+
+.joinus{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background: rgb(83, 34, 34);
+    text-align: center;
+
+}
+.joinTitle{
+    font-size: 20px;
+    color: white;
+}
+    
+
+.joinTitle{
+    font-size: 20px;
+    
+}
+.joinImage{
+    height: 280px;
+}

@@ -1,0 +1,30 @@
+.header{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.logo{
+   
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    
+}
+.otherimages{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    
+}
+.homeimg{
+    width: 80%;
+    height: 300px;
+    margin-top: 30px;
+    border: 1px solid black;
+    object-fit: cover;
+    margin-bottom: 40px;
+}

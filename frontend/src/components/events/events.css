@@ -1,0 +1,19 @@
+.events{
+    margin-top: 60px;
+    display: flex;
+}
+.eventscontainer{
+    margin-left: 40px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.eventsTitle{
+    font-size: 20px;
+    color: black;
+    
+}
+.eventImage{
+    margin-left: 10px;
+    border-radius: 10px;
+}

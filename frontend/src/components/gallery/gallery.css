@@ -1,0 +1,25 @@
+.gallery{
+    margin-top: 100px;
+    background: burlywood;
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+
+}
+.gallerycontainer{
+    width: 100%;
+    margin:auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}
+.galleryImageIcon{
+    margin-top: 20px;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border:1px solid#ddd;
+    border-radius: 5px;
+    height: 200px;
+}
